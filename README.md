@@ -6,14 +6,6 @@ Running a machine learning analysis on Portuguese bank data to evaluate a custom
 
 Data exploration, feature engineering and building a machine learning model. Evaluate dataset using F1 Score/Confusion Matrix/Accuracy Score. Evaluate subscription likelihood using a Logistic Regression and Gaussian Naive Bayes algorithm and compared the accuracy score.
 
-## Data
-
-The data was sourced from [this Kaggle competition](https://www.kaggle.com/henriqueyamahata/bank-marketing), which in turn references [this academic article](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
-
-The academic article runs their own regression on the Portuguese bank data. 
-
-The definitions of the columns are available in bank-additional-names.txt
-
 ## Approach
 
 1. Exploratory analysis of the dataset itself, evaluating the types of data available, examining the data types separately.
